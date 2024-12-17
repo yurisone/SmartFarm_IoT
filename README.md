@@ -1,28 +1,34 @@
 [센서 모니터링]
 
 센서값 모니터링 : TFT
+
 https://github.com/user-attachments/assets/f6134947-89d4-4fb6-8818-7a98af049877
 
 
 센서값 모니터링 : Web
+
 https://github.com/user-attachments/assets/7c6fa96f-9c7e-4e87-944f-816c787d6932
 
 
 센서값 모니터링 : 터미널
+
 https://github.com/user-attachments/assets/fa6ab147-90de-47c7-8b49-82228353bc86
 
 
 [제어]
 
 스위치 제어 : Fan, LED 제어
+
 https://github.com/user-attachments/assets/0f761b9f-a32a-4796-8742-72581eada0e7
 
 
 웹에서 제어 : Fan, LED 제어
+
 https://github.com/user-attachments/assets/39fd506f-c848-4f31-8aba-7c119dff9b99
 
 
 워터펌프 제어
+
 https://github.com/user-attachments/assets/1cf6385e-768c-45ee-916b-ff26ec413fe6
 
 
