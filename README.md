@@ -1,16 +1,16 @@
 [센서 모니터링]
 
-센서값 모니터링 : TFT
+센서값 모니터링 : Web
 
 https://github.com/user-attachments/assets/f6134947-89d4-4fb6-8818-7a98af049877
 
 
-센서값 모니터링 : Web
+센서값 모니터링 : 터미널
 
 https://github.com/user-attachments/assets/7c6fa96f-9c7e-4e87-944f-816c787d6932
 
 
-센서값 모니터링 : 터미널
+센서값 모니터링 : TFT
 
 https://github.com/user-attachments/assets/fa6ab147-90de-47c7-8b49-82228353bc86
 
