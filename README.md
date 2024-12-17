@@ -1,5 +1,6 @@
-전체동작 시연영상은 Issues에 올렸습니다
+전체동작 시연영상은 Youtube에 올렸습니다
 
+https://youtu.be/cKKavTbeWy4
 
 
 [센서 모니터링]
